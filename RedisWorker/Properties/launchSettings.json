@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "RedisWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
